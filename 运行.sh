@@ -1,4 +1,4 @@
-git clone https://github.com/wanghaiqing2015/devops-backend
+git clone git://github.com/wanghaiqing2015/devops-backend.git
 
 cd devops-backend
 
